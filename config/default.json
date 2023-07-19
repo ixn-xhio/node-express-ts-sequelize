@@ -1,0 +1,19 @@
+{
+    "PORT": 3232,
+    "CLIENT_URL":"http://localhost/", 
+    "DATABASE": {
+        "MYSQL_HOST":"",
+        "MYSQL_USER":"",
+        "MYSQL_PASSWORD":"",
+        "MYSQL_DATABASE":""
+    },
+    "MAILING": {
+        "SENDER_EMAIL_ADDRESS":"",
+        "MAILING_SERVICE_CLIENT_ID":"",
+        "MAILING_SERVICE_CLIENT_SECRET":"",
+        "MAILING_SERVICE_REFRESH_TOKEN":""
+    },
+    "ACTIVATION_TOKEN_SECRET":"",
+    "ACCESS_TOKEN_SECRET":"",
+    "REFRESH_TOKEN_SECRET":""
+}
